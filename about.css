@@ -40,9 +40,9 @@
     margin-top: 20px;
     margin-bottom: 10px;
 }
-.page p{
-    color: white;
-}
 .page pre{
-    color: white;
+    color: rgb(186, 186, 186);
+}
+.page p{
+    color: rgb(186, 186, 186);
 }
