@@ -62,6 +62,7 @@ nav ul li a::after{
     line-height: 100px;
     margin-left: -10px;
     color: transparent;
+    -webkit-text-stroke: 1px #fff;
     background: url(/446620.jpg);
     -webkit-background-clip: text;
     background-position: 0 0;
