@@ -40,3 +40,9 @@
     margin-top: 20px;
     margin-bottom: 10px;
 }
+.page p{
+    color: white;
+}
+.page pre{
+    color: white;
+}
