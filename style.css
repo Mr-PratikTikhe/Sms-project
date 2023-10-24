@@ -63,7 +63,7 @@ nav ul li a::after{
     margin-left: -10px;
     color: transparent;
     -webkit-text-stroke: 1px #fff;
-    background: url(/446620.jpg);
+    background: url(446620.jpg);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
